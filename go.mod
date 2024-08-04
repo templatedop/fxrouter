@@ -1,4 +1,4 @@
-module github.com/templatedop/fxrouter
+module github.com/templatedop/fxgin
 
 go 1.22.1
 
