@@ -1,4 +1,4 @@
-package fxgin
+package fxrouter
 
 import (
 	//fxconfig "gotemplate/config"
